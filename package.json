@@ -7,12 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "polling"
+    "polling","push notification"
   ],
   "author": "Thirumalai murugan G",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.18.3",
+  "dependencies": {    
     "express": "^4.16.3",
     "node-cache": "^4.2.0",
     "path": "^0.12.7",
