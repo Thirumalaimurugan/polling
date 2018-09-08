@@ -1,0 +1,21 @@
+{
+  "name": "pollingapp",
+  "version": "1.0.0",
+  "description": "Nodejs polling",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "polling"
+  ],
+  "author": "Thirumalai murugan G",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "node-cache": "^4.2.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.1.1"
+  }
+}
